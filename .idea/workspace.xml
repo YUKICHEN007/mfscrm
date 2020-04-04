@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b9912ff-c06f-417d-9df3-dbd893915def" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yglc2jGVg2QjevGFro80TXGZQQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Brian\PycharmProjects\mfscrm\crm" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="mfscrm" type="Python.DjangoServer" factoryName="Django server">
+      <module name="mfscrm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b9912ff-c06f-417d-9df3-dbd893915def" name="Default Changelist" comment="" />
+      <created>1583372193217</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583372193217</updated>
+      <workItem from="1583372247806" duration="378000" />
+      <workItem from="1583876643057" duration="7963000" />
+      <workItem from="1583967076294" duration="14000" />
+      <workItem from="1583969689414" duration="14414000" />
+      <workItem from="1584065957286" duration="1261000" />
+      <workItem from="1584291676001" duration="56000" />
+      <workItem from="1584291791594" duration="18000" />
+      <workItem from="1584291857293" duration="21000" />
+      <workItem from="1585872026954" duration="4763000" />
+      <workItem from="1585884695258" duration="3253000" />
+      <workItem from="1585948572983" duration="3039000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="476" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585884718645">
+      <screen x="0" y="0" width="2048" height="864" />
+    </state>
+    <state x="357" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1583969803698" />
+    <state x="476" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.864@0.0.2048.864" timestamp="1585884718645" />
+    <state x="971" y="272" key="FileChooserDialogImpl" timestamp="1584291807785">
+      <screen x="0" y="0" width="2048" height="864" />
+    </state>
+    <state x="728" y="272" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1584065969989" />
+    <state x="971" y="272" key="FileChooserDialogImpl/0.0.2048.864@0.0.2048.864" timestamp="1584291807785" />
+    <state x="535" y="78" key="SettingsEditor" timestamp="1584291875432">
+      <screen x="0" y="0" width="2048" height="864" />
+    </state>
+    <state x="535" y="78" key="SettingsEditor/0.0.2048.864@0.0.2048.864" timestamp="1584291875432" />
+  </component>
+</project>
