@@ -18,6 +18,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Yglc2jGVg2QjevGFro80TXGZQQ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -29,7 +32,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -82,6 +85,7 @@
       <workItem from="1585872026954" duration="4763000" />
       <workItem from="1585884695258" duration="3253000" />
       <workItem from="1585948572983" duration="3039000" />
+      <workItem from="1585964504294" duration="214000" />
     </task>
     <servers />
   </component>
@@ -99,9 +103,9 @@
     </state>
     <state x="728" y="272" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1584065969989" />
     <state x="971" y="272" key="FileChooserDialogImpl/0.0.2048.864@0.0.2048.864" timestamp="1584291807785" />
-    <state x="535" y="78" key="SettingsEditor" timestamp="1584291875432">
+    <state x="535" y="78" key="SettingsEditor" timestamp="1585964718612">
       <screen x="0" y="0" width="2048" height="864" />
     </state>
-    <state x="535" y="78" key="SettingsEditor/0.0.2048.864@0.0.2048.864" timestamp="1584291875432" />
+    <state x="535" y="78" key="SettingsEditor/0.0.2048.864@0.0.2048.864" timestamp="1585964718612" />
   </component>
 </project>
