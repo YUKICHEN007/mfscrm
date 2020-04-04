@@ -19,6 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Yglc2jGVg2QjevGFro80TXGZQQ" />
@@ -31,7 +32,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CMS_Client" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
@@ -85,7 +86,7 @@
       <workItem from="1585872026954" duration="4763000" />
       <workItem from="1585884695258" duration="3253000" />
       <workItem from="1585948572983" duration="3039000" />
-      <workItem from="1585964504294" duration="645000" />
+      <workItem from="1585964504294" duration="2407000" />
     </task>
     <servers />
   </component>
@@ -93,6 +94,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="617" y="95" key="#Notifications" timestamp="1585966522578">
+      <screen x="0" y="0" width="2048" height="864" />
+    </state>
+    <state x="617" y="95" key="#Notifications/0.0.2048.864@0.0.2048.864" timestamp="1585966522578" />
     <state x="476" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585884718645">
       <screen x="0" y="0" width="2048" height="864" />
     </state>
@@ -102,14 +107,14 @@
       <screen x="0" y="0" width="2048" height="864" />
     </state>
     <state x="764" y="243" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2048.864@0.0.2048.864" timestamp="1585965131303" />
-    <state x="971" y="272" key="FileChooserDialogImpl" timestamp="1584291807785">
+    <state x="971" y="272" key="FileChooserDialogImpl" timestamp="1585966919911">
       <screen x="0" y="0" width="2048" height="864" />
     </state>
     <state x="728" y="272" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1584065969989" />
-    <state x="971" y="272" key="FileChooserDialogImpl/0.0.2048.864@0.0.2048.864" timestamp="1584291807785" />
-    <state x="535" y="78" key="SettingsEditor" timestamp="1585964718612">
+    <state x="971" y="272" key="FileChooserDialogImpl/0.0.2048.864@0.0.2048.864" timestamp="1585966919911" />
+    <state x="535" y="78" key="SettingsEditor" timestamp="1585966925566">
       <screen x="0" y="0" width="2048" height="864" />
     </state>
-    <state x="535" y="78" key="SettingsEditor/0.0.2048.864@0.0.2048.864" timestamp="1585964718612" />
+    <state x="535" y="78" key="SettingsEditor/0.0.2048.864@0.0.2048.864" timestamp="1585966925566" />
   </component>
 </project>
