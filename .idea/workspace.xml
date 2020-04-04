@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b9912ff-c06f-417d-9df3-dbd893915def" name="Default Changelist" comment="" />
+    <list default="true" id="7b9912ff-c06f-417d-9df3-dbd893915def" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/crm/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +36,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../CMS_Client" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -86,7 +89,8 @@
       <workItem from="1585872026954" duration="4763000" />
       <workItem from="1585884695258" duration="3253000" />
       <workItem from="1585948572983" duration="3039000" />
-      <workItem from="1585964504294" duration="4345000" />
+      <workItem from="1585964504294" duration="6301000" />
+      <workItem from="1585978616717" duration="1762000" />
     </task>
     <servers />
   </component>
@@ -107,14 +111,18 @@
       <screen x="0" y="0" width="2048" height="864" />
     </state>
     <state x="764" y="243" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2048.864@0.0.2048.864" timestamp="1585965131303" />
+    <state x="1270" y="387" key="#com.intellij.tools.ToolEditorDialog" timestamp="1585978661572">
+      <screen x="0" y="0" width="2048" height="864" />
+    </state>
+    <state x="1270" y="387" key="#com.intellij.tools.ToolEditorDialog/0.0.2048.864@0.0.2048.864" timestamp="1585978661572" />
     <state x="971" y="272" key="FileChooserDialogImpl" timestamp="1585968072434">
       <screen x="0" y="0" width="2048" height="864" />
     </state>
     <state x="728" y="272" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1584065969989" />
     <state x="971" y="272" key="FileChooserDialogImpl/0.0.2048.864@0.0.2048.864" timestamp="1585968072434" />
-    <state x="535" y="78" key="SettingsEditor" timestamp="1585966925566">
+    <state x="1010" y="157" key="SettingsEditor" timestamp="1585978662891">
       <screen x="0" y="0" width="2048" height="864" />
     </state>
-    <state x="535" y="78" key="SettingsEditor/0.0.2048.864@0.0.2048.864" timestamp="1585966925566" />
+    <state x="1010" y="157" key="SettingsEditor/0.0.2048.864@0.0.2048.864" timestamp="1585978662891" />
   </component>
 </project>

@@ -99,7 +99,7 @@ def product_new(request):
            product.save()
            products = Product.objects.filter(created_date__lte=timezone.now())
            return render(request, 'crm/product_list.html',
-                         {'product': products})
+                         {'products': products})
    else:
        form = ProductForm()
        # print("Else")
